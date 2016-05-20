@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=WM_QMLTab01
+Comment=Web eMMe Project Framework
+Exec=/usr/bin/qmlscene $@ /usr/share/WM_QMLTab01/WM_QMLTab01.qml
+Icon=WM_Icona.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true

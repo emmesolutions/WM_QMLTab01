@@ -1,0 +1,15 @@
+{
+    "architecture": "all",
+    "description": "description of WM-QMLTab01",
+    "framework": "ubuntu-sdk-13.10",
+    "hooks": {
+        "WM-QMLTab01": {
+            "apparmor": "WM-QMLTab01.json",
+            "desktop": "WM_QMLTab01.desktop"
+        }
+    },
+    "maintainer": "",
+    "name": "com.ubuntu.developer.username.wm-qmltab01",
+    "title": "WM-QMLTab01",
+    "version": "0.1"
+}
